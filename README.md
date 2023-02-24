@@ -63,7 +63,7 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdahgus12&layout=compact">
+
 <img src="https://github-readme-stats.vercel.app/api?username=rkdahgus12&show_icons=true">
 
 <!-- ![Mozzi's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=rkdahgus12) -->
