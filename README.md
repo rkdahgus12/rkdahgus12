@@ -31,7 +31,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 
-
+ 
 <br><br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
