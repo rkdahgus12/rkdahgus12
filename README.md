@@ -1,7 +1,7 @@
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Mozzi%20GIT!!&fontSize=90"/>
 </div>
-
+ 
 <div align=center>
 	<h2>🤜 To Be AI Programmer 🤛</h3>
 	
