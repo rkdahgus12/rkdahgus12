@@ -3,7 +3,7 @@
 </div>
  
 <div align=center>
-	<h2>🤜 To Be AI Programmer 🤛</h3>
+	<h2>🤜 To Be AI Developer 🤛</h3>
 	
 </div>
 
